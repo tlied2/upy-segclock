@@ -1,0 +1,6 @@
+[submodule "micropython-adafruit-ht16k33"]
+	path = micropython-adafruit-ht16k33
+	url = https://github.com/adafruit/micropython-adafruit-ht16k33.git
+[submodule "upy-mylib"]
+	path = upy-mylib
+	url = https://github.com/tlied2/upy-mylib.git

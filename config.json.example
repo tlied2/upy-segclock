@@ -1,0 +1,20 @@
+{
+    "wifi": {
+        "hostname": "my_dhcp_hostname",
+        "networks": {
+            "SSID1": "ssid1password",
+            "SSID2": "ssid2password"
+        }
+    },
+    "mqtt": {
+        "server": "ip_for_mqtt_server",
+        "clientname": "umqtt-client1"
+    },
+    "clock": {
+        "offset": -5,
+        "24hour": true,
+        "pad": true,
+        "bright": 4
+    },
+    "ntp_server": "ip_for_ntp_server"
+}
