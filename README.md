@@ -1,7 +1,7 @@
 # upy-segclock
 NTP clock with Adafruit 1.2" I2C display on ESP8266 in Micropython
 
-This project uses submodules. Don't forget to `git submodule init`
+This project uses submodules. Clone with `git clone --recurse-submodules` or `git submodule init` in each submodule directory.
 
 ## BOM
 - 1x esp8266 development board with USB - I used a nodemcuv2 variant
